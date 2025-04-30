@@ -46,13 +46,16 @@ To me, QA is not just about finding bugs — it’s about building trust in soft
 - Retesting
 - Load Testing
 - API Testing
-## 📌 Methodologies
+### 📌 Methodologies
 - Agile (Scrum, Kanban)
 
 ### 📂 Certificates
 
 - ISTQB® Foundation Level: [(https://example.com/link-to-certificate](https://drive.google.com/file/d/1CKyQ1C1KuPnDxE44i9eX4hNTFBVHyGsD/view))
-- certificate for CISCO certified network associate: [(https://example.com/link-to-certificate](https://drive.google.com/file/d/1V0of-DCOyvQvHCupNhrpwKCSWdjAX3Xf/view))
+- Certificate for CISCO certified network associate: [(https://example.com/link-to-certificate](https://drive.google.com/file/d/1V0of-DCOyvQvHCupNhrpwKCSWdjAX3Xf/view))
+
+### Medium Articles
+
 
 
 ### 📫 Let's Connect
