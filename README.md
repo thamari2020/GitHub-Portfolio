@@ -63,6 +63,7 @@ To me, QA is not just about finding bugs — it’s about building trust in soft
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thamari-hasantha-0b6245200)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thamarihas96@gmail.com)
 
----
+### Repositary
+-  [Projects] (https://github.com/thamari2020/Projects)
 
 ⭐️ _Thanks for visiting!_
